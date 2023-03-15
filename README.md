@@ -1,4 +1,7 @@
 # [Jornada do zero à primeira vaga](https://app.rocketseat.com.br/jornada-primeira-vaga)  
+<p align="center">
+    <img src="assets/Wallpapers.png" >  
+</p>
 Evento Online e Gratuito da ROCKTSEAT  
 Aprenda tudo que você precisa saber para iniciar seus estudos e decolar na carreira em programação  
   
