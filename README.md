@@ -23,11 +23,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Jornada do zero à primeira vaga.    
 Aprenda tudo que você precisa saber para iniciar seus estudos e decolar na carreira em programação.  
-[Material Complementar](https://efficient-sloth-d85.notion.site/Jornada-do-Zero-primeira-vaga-93a7d365a2d6482a89d5f6d1b32d3d7b)  
+[Material Complementar no Notion](https://efficient-sloth-d85.notion.site/Jornada-do-Zero-primeira-vaga-93a7d365a2d6482a89d5f6d1b32d3d7b)  
 
 ## 🔖 Layout
 
-Você pode visualizar o [layout do projeto online](https://www.figma.com/community/file/1216014509044898198)  
+Você pode visualizar o [layout do projeto no Figma](https://www.figma.com/community/file/1216014509044898198)  
 
 <br>
 
