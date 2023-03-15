@@ -28,6 +28,17 @@ Jornada do zero à primeira vaga.
 Aprenda tudo que você precisa saber para iniciar seus estudos e decolar na carreira em programação.  
 [Material Complementar no Notion](https://efficient-sloth-d85.notion.site/Jornada-do-Zero-primeira-vaga-93a7d365a2d6482a89d5f6d1b32d3d7b)  
 
+Fase 01 - O início da jornada  
+[Land 01 - Como começar na programação](https://www.youtube.com/watch?v=MUkZPS915X4&t=3770s)  
+[Stage 01 - Descomplicando o código](https://www.youtube.com/watch?v=fbzUo-uQUeY)  
+
+Fase 02 - Evoluindo na carreira  
+[Land 02 - Desenvolvendo sua marca pessoal](https://www.youtube.com/watch?v=ag5Emncq2Mc&t=6s)  
+[Stage 02 - Criando seu site](https://www.youtube.com/watch?v=UJhK5DXJRiw)  
+
+Fase 03  
+[Land 03 - Como acessar sua primeira vaga](https://www.youtube.com/watch?v=nG__w-A3VAk)
+
 ## 🔖 Layout
 
 Você pode visualizar o [layout do projeto no Figma](https://www.figma.com/community/file/1216014509044898198)  
