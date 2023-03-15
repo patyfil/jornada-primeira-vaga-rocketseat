@@ -1,12 +1,12 @@
-# [Jornada do zero à primeira vaga](https://app.rocketseat.com.br/jornada-primeira-vaga)  
 <p align="center">
-    <img src="assets/Wallpapers.png" >  
+    <img src="assets/Wallpaper.png" width= "70%">  
 </p>
-Evento Online e Gratuito da ROCKTSEAT  
+
+Evento Online e Gratuito da [ROCKTSEAT](https://app.rocketseat.com.br/jornada-primeira-vaga)  
 Aprenda tudo que você precisa saber para iniciar seus estudos e decolar na carreira em programação  
   
 AULAS GRAVADAS E AO VIVO  
-DE 13 A 15 DE MARÇO 
+DE 13 A 15 DE MARÇO DE 2023.
 
 
 <p align="center">
